@@ -1,0 +1,1 @@
+web: gunicorn ksm_project_restfull.wsgi
